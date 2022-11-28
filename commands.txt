@@ -1,0 +1,13 @@
+INICIALMENTE, INSTALAR LAS DEPENDENCIAS Y/O PAQUETES DE DJANGO Y REACT, RESPECTIVAMENTE (PARA EVITAR INCONVENIENTES)
+
+ORDEN DE EJECUCIÓN DE LOS COMANDOS
+
+1. docker-compose build
+2. docker-compose up
+
+Posteriormente, debe dirigirse a 127.0.0.1
+
+PARTICIPANTES:
+1. Rivas Giwencer Lui Ricardo
+2. Clares Flores Henry
+3. Jimenez Pinedo Sergio Andres
